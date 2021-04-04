@@ -1,14 +1,13 @@
-# Lineage 2 Interlude bot PROTOTYPE
+## Lineage II bot using OpenCV  
+### Video:
+[![Lineage II bot using OpenCV](https://www.youtube.com/watch?v=k8rXYoxpYmg]
+### Lineage II Bot  
+This bot uses OpenCV to detect and target enemies from white text but also by motion. It will attack until they run out of HP and pick up drops. It also can use Autohotkey to control additional characters such as buffers, healers, or spoilers.
+### Setup  
+#### Installation:  
+```  
+$ git clone https://github.com/dchique/Lineage2-Bot 
+```  
+Install necessary Python packages.
 
-About:<br />
-https://habrahabr.ru/post/346258/
-
-Video:<br />
-[![Youtube video](https://img.youtube.com/vi/vlV1oMwDLpQ/0.jpg)](https://www.youtube.com/watch?v=vlV1oMwDLpQ)
-
-@TODO
-1. Recognize NPC's and other players
-2. Get self HP
-3. Use self buffs
-4. Support 2nd window
-5. Support buffers
+Press GRAVE key to stop the bot.
