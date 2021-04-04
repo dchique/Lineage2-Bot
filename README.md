@@ -1,6 +1,6 @@
 ## Lineage II bot using OpenCV  
 ### Video:
-[![Lineage II bot using OpenCV](http://img.youtube.com/vi/k8rXYoxpYmg/0.jpg)(https://www.youtube.com/watch?v=k8rXYoxpYmg)]
+[![](http://img.youtube.com/vi/k8rXYoxpYmg/0.jpg)](http://www.youtube.com/watch?v=k8rXYoxpYmg "")
 ### Lineage II Bot  
 This bot uses OpenCV to detect and target enemies from white text but also by motion. It will attack until they run out of HP and pick up drops. It also can use Autohotkey to control additional characters such as buffers, healers, or spoilers.
 ### Setup  
