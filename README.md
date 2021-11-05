@@ -11,3 +11,6 @@ $ git clone https://github.com/dchique/Lineage2-Bot
 Install necessary Python packages.
 
 Press GRAVE key to stop the bot.
+
+
+Can you add requirements.txt folder. There please add all your library which you use int that project. you can use commend pip freeze and save them all to requrements.txt or use library to use it automatically. There are a lot of solutions to use venv and take care of versions packages/libraries. 
